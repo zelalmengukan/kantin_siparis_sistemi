@@ -15,4 +15,10 @@ Kullanıcılar kantindeki güncel menüyü görüntüleyebilir ve istedikleri ü
 - **Sipariş Verme:** Kullanıcının girdiği ürün adına göre stok/menü kontrolü yapıp siparişi tamamlama.
 - **Hata Kontrolü:** Menüde bulunmayan ürünler veya geçersiz seçenekler için kullanıcıyı bilgilendirme.
 
+  ## 🛠️ Kullanılan Konular
+  
+- Nesne Yönelimli Programlama (Class, __init__, Instance Method)
+- Veri Yapıları (Sözlük / Dictionary)
+- Kontrol Yapıları (while döngüsü, for döngüsü, if-else koşulları)
+
 
